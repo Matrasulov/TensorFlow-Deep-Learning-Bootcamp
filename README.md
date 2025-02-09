@@ -15,3 +15,9 @@ To run the notebooks, install the required dependencies:
 
 ```bash
 pip install tensorflow numpy matplotlib pandas scikit-lear
+```
+
+### Alternatively, use the requirements.txt file
+```
+pip install -r requirements.txt
+```
