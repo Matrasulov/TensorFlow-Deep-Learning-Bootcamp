@@ -3,6 +3,8 @@
 This repository contains my notes, code, and exercises from the **TensorFlow Deep Learning Bootcamp** course on Udemy. The course covers deep learning concepts, neural networks, and TensorFlow implementations for real-world problems.
 
 ## 📌 Features  
+- Numpy
+- Pandas
 - Neural Network Basics  
 - Convolutional Neural Networks (CNNs)  
 - Recurrent Neural Networks (RNNs)  
